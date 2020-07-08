@@ -1,0 +1,10 @@
+C:\Users\parthavp\source\repos\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+C:\Users\parthavp\source\repos\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+C:\Users\parthavp\source\repos\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+C:\Users\parthavp\source\repos\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojAssemblyReference.cache
+C:\Users\parthavp\source\repos\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+C:\Users\parthavp\source\repos\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+C:\Users\parthavp\source\repos\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.cache
+C:\Users\parthavp\source\repos\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+C:\Users\parthavp\source\repos\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+C:\Users\parthavp\source\repos\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
